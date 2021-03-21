@@ -1,0 +1,42 @@
+h1{font-size:36px}
+h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:100;margin:10px 0}
+* {
+  box-sizing: border-box;
+}
+header {
+  background-color: Black;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+  text-indent: 150px;
+
+
+}
+.topleft {
+  position: absolute;
+  top: 60px;
+  left: 30px;
+}
+.dataindent1
+{
+	  text-indent: 80px;
+padding:0px;}
+.dataindent2
+{
+	    text-align: right;
+
+padding:0px;}
+.dataindent3
+{
+	    text-align: right;
+padding:0px;}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 530px; 
+}
+.row{
+  display: table;
+}
